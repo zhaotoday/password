@@ -1,7 +1,7 @@
 var generatePassword = require('password-generator')
 
-var maxLength = 18
-var minLength = 12
+var maxLength = 30
+var minLength = 30
 var uppercaseMinCount = 3
 var lowercaseMinCount = 3
 var numberMinCount = 2
