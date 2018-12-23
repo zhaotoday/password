@@ -1,0 +1,22 @@
+{
+  "name": "password",
+  "version": "1.0.0",
+  "description": "Memorable password generator. 密码生成器。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhaotoday/password.git"
+  },
+  "author": "zhaojintian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhaotoday/password/issues"
+  },
+  "homepage": "https://github.com/zhaotoday/password#readme",
+  "dependencies": {
+    "password-generator": "^2.2.0"
+  }
+}
