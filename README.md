@@ -1,2 +1,5 @@
-# password-generator
-Memorable password generator. 密码生成器。
+## 命令
+
+```bash
+$ node index.js
+```
